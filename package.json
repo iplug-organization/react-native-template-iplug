@@ -1,0 +1,29 @@
+{
+  "name": "react-native-template-iplug-js-template",
+  "version": "0.0.5",
+  "description": "IPlug template.",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplug-organization/react-native-template-iplug-js-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Jonatas Pedroso <jonatasarlindo@hotmail.com>",
+  "contributors": [
+    "Lucas Vanni <lucas.vanni@hotmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iplug-organization/react-native-template-iplug-js-templat/issues"
+  },
+  "homepage": "https://github.com/iplug-organization/react-native-template-iplug-js-templat#readme"
+}
