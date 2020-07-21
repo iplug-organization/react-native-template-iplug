@@ -1,7 +1,6 @@
 {
   "name": "react-native-template-iplug-js-template",
-  "version": "0.0.5",
-  "description": "IPlug template.",
+  "version": "0.0.7",
   "files": [
     "template",
     "template.config.js"
